@@ -1,0 +1,440 @@
+[
+  {
+  "id": 1,
+  "name": "Omelett",
+  "serves": 4,
+  "category": "breakfast & brunch",
+  "instructions": [
+    "Knäck äggen",
+    "Krydda äggsmeten med salt m.m.",
+    "Vispa äggen",
+    "Stek smeten",
+    "Lägg på tallrik"
+  ],
+  "ingredients": [
+    {
+      "name": "ägg",
+      "units": 12,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 60
+    },
+    {
+      "name": "tomat",
+      "units": 2,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 80
+    },
+    {
+      "name": "basilika",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 100
+    },
+    {
+      "name": "salt",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 5
+    },
+    {
+      "name": "olivolja",
+      "units": 1,
+      "measuringUnit" : "dl",
+      "unitEquivalentInGrams": 1
+    }
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "beautiful-omelet.jpg"
+  },
+  {
+  "id": 2,
+  "name": "Tomato Mozzarella",
+  "serves": 4,
+  "category": "salads",
+  "instructions": [
+    "Chop tomato",
+    "Chop mozarella",
+    "Bla bla"
+  ],
+  "ingredients": [
+    {
+      "name": "tomat",
+      "units": 5,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 80
+    },
+    {
+      "name": "mozzarella",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 300
+    },
+    {
+      "name": "basilika",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 100
+    },
+    {
+      "name": "salt",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 5
+    },
+    {
+      "name": "olivolja",
+      "units": 1,
+      "measuringUnit" : "dl",
+      "unitEquivalentInGrams": 1
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "tomato-mozzarella.jpg"
+  },
+  {
+  "id": 3,
+  "name": "One-pan spaghetti with nduja, fennel & olives",
+  "serves": 4,
+  "category": "dinners",
+  "instructions": [
+    "Boil the kettle. Put all the ingredients except the pecorino and basil in a wide saucepan or deep frying pan and season well. Pour over 800ml kettle-hot water and bring to a simmer, using your tongs to ease the spaghetti under the liquid as it starts to soften.",
+    "Simmer, uncovered, for 10-12 mins, tossing the spaghetti through the liquid every so often until it is cooked and the sauce is reduced and clinging to it. Add a splash more hot water if the sauce is too thick or does not cover the pasta while it cooks. Turn up the heat for the final few mins to drive off the excess liquid, leaving you with a rich sauce. Stir through the pecorino and basil, and serve with an extra drizzle of oil and pecorino on the side."
+  ],
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 400
+    },
+    {
+      "name": "garlic",
+      "units": 3,
+      "measuringUnit" : "cloves",
+      "unitEquivalentInGrams": 30
+    },
+    {
+      "name": "fennel",
+      "units": 0.5,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 20
+    },
+    {
+      "name": "nduja",
+      "units": 75,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 75
+    },
+    {
+      "name": "tomat",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 200
+    },
+    {
+      "name": "tomatpuré",
+      "units": 2,
+      "measuringUnit" : "tsp",
+      "unitEquivalentInGrams": 20
+    },
+    {
+      "name": "olivolja",
+      "units": 3,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 10
+    },
+    {
+      "name": "rödvinsvinäger",
+      "units": 2,
+      "measuringUnit" : "tsp",
+      "unitEquivalentInGrams": 30
+    },
+    {
+      "name": "pecorino",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 40
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "one-pan-spaghetti-with-nduja-fennel-olives.jpg"
+  },
+  {
+  "id": 4,
+  "name": "One-pan roast dinner",
+  "serves": 4,
+  "category": "dinners",
+  "instructions": [
+    "Heat oven to 220C/200C fan/gas 7. Snip the string or elastic off the chicken if it’s tied up, then place in a big roasting tin. Shove the lemon halves into the cavity. Rub the butter, herbs and seasoning all over the chicken. Put the potatoes and carrots around it, drizzle everything with oil, season and toss together.",
+    "Roast for 20 mins, then turn the oven down to 200C/180C fan/gas 6 and roast for 50 mins more. Stir the peas, stock and Marmite into the veg in the tin, then return to the oven for 10 mins more."
+  ],
+  "ingredients": [
+    {
+      "name": "kyckling",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 1500
+    },
+    {
+      "name": "lemon",
+      "units": 1,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 30
+    },
+    {
+      "name": "Smör",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 50
+    },
+    {
+      "name": "potatis",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 750
+    },
+    {
+      "name": "morot",
+      "units": 7,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 500
+    },
+    {
+      "name": "olivolja",
+      "units": 2,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 7
+    },
+    {
+      "name": "frysta ärtor",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 100
+    },
+    {
+      "name": "kycklingbuljong",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 300
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "one-pan-roast-dinner.jpg"
+  },
+  {
+  "id": 5,
+  "name": "Bacon & avocado warm pasta salad",
+  "serves": 4,
+  "category": "salads",
+  "instructions": [
+    "Bring a large pan of water to the boil. Cook the orzo following pack instructions, drain and set aside. Meanwhile, heat the oil in a frying pan and fry the bacon for 4-5 mins until crispy. Stir in the tomatoes and cook for a couple mins more. Stir in the orzo, pesto and avocado, and heat for 2 mins more.",
+    "Spoon onto a serving plate, then scatter with rocket leaves and Grana Padano."
+  ],
+  "ingredients": [
+    {
+      "name": "orzo",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 300
+    },
+    {
+      "name": "solrosolja",
+      "units": 1,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 5
+    },
+    {
+      "name": "strimlad bacon",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 140
+    },
+    {
+      "name": "körsbärstomater",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 140
+    },
+    {
+      "name": "pesto",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 90
+    },
+    {
+      "name": "avokado",
+      "units": 2,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 100
+    },
+    {
+      "name": "raketblad",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 70
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "bacon-avocado-warm-pasta-salad.jpg"
+  },
+  {
+  "id": 6,
+  "name": "Scandi smoked salmon potatoes",
+  "serves": 6,
+  "category": "appetizers",
+  "instructions": [
+    "Boil the potatoes in their skins for 15 mins until tender, then drain and cool. Meanwhile, whisk all the sauce ingredients together, except the dill. Cut each piece of salmon in half to make two long strips.",
+    "Halve the potatoes slightly on a diagonal, then wrap a piece of smoked salmon around each piece and place onto a platter. If you want to add salt, go easy, as the salmon is highly seasoned. Scatter with pepper, a squeeze of lemon and a few dill fronds. Give the sauce a quick whisk, add the chopped dill, season to taste, then pour into a dipping bowl. Scoop the soured cream into another. To eat, dip the potatoes into the cream, then spoon over a little sauce."
+  ],
+  "ingredients": [
+    {
+      "name": "potatis",
+      "units": 16,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 300
+    },
+    {
+      "name": "rökt lax",
+      "units": 16,
+      "measuringUnit" : "slices",
+      "unitEquivalentInGrams": 300
+    },
+    {
+      "name": "gräddfil",
+      "units": 150,
+      "measuringUnit" : "ml",
+      "unitEquivalentInGrams": 150
+    },
+    {
+      "name": "senap",
+      "units": 1,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 6
+    },
+    {
+      "name": "strösocker",
+      "units": 1,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 5
+    },
+    {
+      "name": "olivolja",
+      "units": 6,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 19
+    },
+    {
+      "name": "vitt vinäger",
+      "units": 2,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 4
+    },
+    {
+      "name": "gäng dill",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 10
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "scandi-smoked-salmon-potatoes.jpg"
+  },
+  {
+  "id": 7,
+  "name": "Miniature omelettes with ricotta",
+  "serves": 6,
+  "category": "appetizers",
+  "instructions": [
+    "Beat the eggs with 2 tbsp water, then season if you want to. Mix in the parsley, chives, garlic and parmesan.",
+    "Heat a 23cm heavy-based frying pan on a medium heat with a little oil. When the oil’s hot, add a ladleful (about a third) of the egg mixture and tip the mixture so it covers the base. Reduce the heat and cook the omelette until just firm, then flip it over and cook the other side. Keep warm. Repeat to make three omelettes, adding a little extra oil to the pan each time.",
+    "Make the filling by combining the ricotta, basil, parmesan and some pepper. Spread mixture over each omelette, roll up loosely like a cigar and cut into thickish slices. Can be made up to 5 hrs ahead. Serve garnished with parsley."
+  ],
+  "ingredients": [
+    {
+      "name": "ägg",
+      "units": 4,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 80
+    },
+    {
+      "name": "persilja",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 50
+    },
+    {
+      "name": "vitlöksklyfta",
+      "units": 1,
+      "measuringUnit" : "st",
+      "unitEquivalentInGrams": 20
+    },
+    {
+      "name": "olivolja",
+      "units": 6,
+      "measuringUnit" : "tbsp",
+      "unitEquivalentInGrams": 19
+    },
+    {
+      "name": "ricotta",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 250
+    },
+    {
+      "name": "basilika",
+      "units": 1,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 50
+    },
+    {
+      "name": "parmesan",
+      "units": 50,
+      "measuringUnit" : "g",
+      "unitEquivalentInGrams": 50
+    }
+
+  ],
+  "nutrition":  {
+    "energy": 50,
+    "proteins": 30,
+    "calories": 1000,
+    "fat": 20
+  },
+  "urlToImg" : "miniature-omelettes-with-ricotta.jpg"
+  }
+]
